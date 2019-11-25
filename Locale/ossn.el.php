@@ -6,7 +6,7 @@
  * @author    RafailStratiotis
  * @copyright 
  * @license   
- * @link      https://github.com/RafailStratiotis/OSSN_Greek
+ * @link      https://github.com/RafailStratiotis/OSSNGreek
  */
 
 $el = array(
