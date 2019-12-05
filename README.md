@@ -1,8 +1,7 @@
 
 # OSSNGreek
 
-Language pack for ossn (opensource-socialnetwork).
-(https://github.com/RafailStratiotis/OSSNGreek)：https://github.com/RafailStratiotis/OSSNGreek
+Language pack for ossn (opensource-socialnetwork)：https://github.com/RafailStratiotis/OSSNGreek
 
 # Greek
 Αυτό είναι ένα πακέτο γλώσσας για το ossn (opensource-socialnetwork).
