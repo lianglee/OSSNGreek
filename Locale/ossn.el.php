@@ -442,4 +442,4 @@ $el = array(
 	"zh" => "Chinese",
 	"zu" => "Zulu"
 );
-ossn_register_languages('el', $el;
+ossn_register_languages('el', $el);
